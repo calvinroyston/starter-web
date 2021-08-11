@@ -9,5 +9,6 @@ This repository is for showing how Git and GitHub work
 ## STEP1
 
 ## STEP2
-
+## STEP3
+## STEP4
 Sample website with plenty of files for demos
